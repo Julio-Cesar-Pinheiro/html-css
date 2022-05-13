@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* tudo que em html e id em css é #
+    tudo que em htm for class em css é .
+*/
+body{
+    background-color: aquamarine;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: brown;
+}
+h1#principal{
+    text-align: center;
+}
+h2{
+    color: chocolate;
+}
+.basico{
+    color: red;
+    font-weight: bold;
+}
+.intermediario{
+    color: blue;
+}
+.avancado{
+    color: blueviolet;
+}
+.destaque{
+    color: yellow;
+}
